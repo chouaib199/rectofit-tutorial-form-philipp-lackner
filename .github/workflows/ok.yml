@@ -1,4 +1,4 @@
-name: Android Build & Firebase Test Lab 10
+name: Android Build & Firebase Test Lab 20
 on:
   push:
     branches: [ "main" ]
