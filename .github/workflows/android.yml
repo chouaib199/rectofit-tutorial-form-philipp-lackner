@@ -1,5 +1,4 @@
-name: Android Build and Runtime Logs
-
+name: Android Build & Firebase Test Lab 2
 on:
   push:
     branches: [ "main" ]
